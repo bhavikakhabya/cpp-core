@@ -30,4 +30,4 @@ This program serves as an introduction to:
 - Understanding program execution flow
 - Using standard output in C++
 
-More programs will be added gradually as part of consistent daily practice.
+ 
